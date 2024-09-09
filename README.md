@@ -1,6 +1,6 @@
 # Cadernin Virtual
 ## Assuntos
-String, Variaveis, Tipos primitivos, Switch, Array
+String, Variaveis, Tipos primitivos, Switch, Array.
 --//--
 ## Links do codepen
 Livraria:
