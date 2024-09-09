@@ -1,14 +1,14 @@
 # Cadernin Virtual
 ## Assuntos
-String:
+### String:
 Sequências de caracteres alfanuméricos (letras, números e/ou símbolos) amplamente usadas em programação.
-Variaveis
+### Variaveis
 É um item de dados denominado cujo valor pode ser alterado durante a execução do programa.
-Tipos primitivos
+#### Tipos primitivos
 São os tipos de dados básicos que são usados para representar valores numéricos, caracteres e booleanos.
-Switch
+### Switch
 É um dispositivo que simplesmente conecta todos os elementos da sua rede.
-Array
+### Array
 É um conjunto de dados que pode assumir os mais diversos tipos, desde do tipo primitivo, a objeto dependendo da linguagem de programação.
 --//--
 ## Links do codepen
